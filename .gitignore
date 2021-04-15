@@ -1,0 +1,11 @@
+.auctex-auto
+figs
+_minted-pres
+.nrepl-port
+*.aux
+*.fls
+*.log
+*.out
+*.tex
+*.thm
+*.fdb_latexmk
